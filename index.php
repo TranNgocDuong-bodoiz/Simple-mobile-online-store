@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>simple </title>
     <link href="fontawesome-free-6.6.0-web/css/all.min.css" rel="stylesheet" >
-    <link href="CSS/header.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="CSS/main.css">
     <link rel="stylesheet" href="CSS/container.css">
+    <link rel="stylesheet" href="CSS/header.css">
+    <link rel="stylesheet" href="CSS/main.css">
 
 </head>
 <body>
@@ -87,6 +87,7 @@
         </div>
     </div> <!-- Đóng thẻ page_header -->
     <div class="main">
+        <!--banner-->
         <div class="banner">
             <div class="big_banner">
                 <img src="imgaes/laptop-ai-banner-chung-slide.webp" alt="" width="100%" height="100%">
@@ -96,11 +97,27 @@
                 <div class="sub_banner1"><img src="imgaes/b2s-2024-right-banner-laptop.webp" alt="" width="100%"> </div>
                 <div class="sub_banner2"><img src="imgaes/m55-gia-moi-right-banner-30-8-2024.webp" alt="" width="100%"></div>
                 <div class="sub_banner3"><img src="imgaes/right-banner-dat-truoc-iphone-16.webp" alt="" width="100%"></div>
+            </div>
+        </div> 
+        <div class="main_sale_product_title">
+            <div class="main_img_sale_product"><img src="imgaes/hot-sale-cuoi-tuan-20-03-2024.gif" alt="" width="80%"></div>
+        </div>
+        <div class="main_sale_product">
+            <div class="sale_product">
+                <div class="sale_value"><span>sale:99%</span></div>
+                <div class="sale_product_img">
+                    <img src="imgaes/product/samsung-galaxy-s24-plus_1.webp" alt="samsung galaxy s24plus" width="100%">
+                </div>
+                <div class="sale_product_name">
+                    <span>Samsung Galaxy S24 Plus</span>
+                </div>
+                <div class="sale_product_price">
+                    <span>24.790.000</span>
                 </div>
             </div>
         </div>
     </div>
-</div> <!-- Đóng thẻ container -->
-
+</div> 
+<!-- Đóng thẻ container -->
 </body>
 </html>

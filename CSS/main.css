@@ -1,5 +1,6 @@
 .main{
     width: 85%;
+    height: auto;
     padding:0;
     margin: 0 auto;
 }
@@ -24,4 +25,30 @@
 .sub_banner1,.sub_banner2,.sub_banner3{
     flex: 1;
     margin: 10px 5px 0 5px;
+}
+.main_sale_product_title{
+    margin-top: 20px;
+    padding: 0;
+    width: 100%;
+    border-radius: 15px;
+}
+.main_sale_product_title div.main_img_sale_product{
+    width: 60%;
+    height: 100%;
+    margin-left: 20px;
+}
+.main_sale_product{
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
+.main_sale_product div.sale_product{
+    width: 20%;
+    background-color: palevioletred;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.sale_product_img{
+    width: 90%;
+    margin: 0 auto;
 }
