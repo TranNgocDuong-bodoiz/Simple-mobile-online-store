@@ -1,0 +1,27 @@
+.main{
+    width: 85%;
+    padding:0;
+    margin: 0 auto;
+}
+.banner{
+    width: 100%;
+    display: flex;
+    height: auto
+}
+.banner div.big_banner{
+    height: 100%;
+    flex: 3;
+    margin: 10px 10px 0 0;
+    padding-bottom: 10px;
+
+}
+.sub_banner{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex: 1;
+}
+.sub_banner1,.sub_banner2,.sub_banner3{
+    flex: 1;
+    margin: 10px 5px 0 5px;
+}
