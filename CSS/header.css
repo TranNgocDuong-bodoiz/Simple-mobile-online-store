@@ -13,6 +13,9 @@
     top: 0;
     right: 0;
 }
+.page_header a{
+    text-decoration: none;
+}
 div.page_header div{
     margin-top: 10px;
 }
