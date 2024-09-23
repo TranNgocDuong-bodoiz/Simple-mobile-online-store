@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="CSS/container.css">
     <link rel="stylesheet" href="CSS/header.css">
     <link rel="stylesheet" href="CSS/main.css">
+    <link rel="stylesheet" href="CSS/footer.css">
 
 </head>
 <body>
@@ -245,7 +246,20 @@
         </div> <!--DONG THE TABLET CONTAINER-->
     </div> <!-- Đóng thẻ main --> 
     <div class="footer">
-        <div class="footer-logo"><img src="imgaes/logo2.png" alt=""></div>
+        <div class="footer-logo"><img src="imgaes/logo2.png" height="100%" alt=""></div>
+            <div class="text text--name">Cửa hàng điện thoại simple mobile</div>
+            <div class="text-container-a">
+                <div class="text text--desc">Địa chỉ:</div>
+                <div class="text text--infor">Số 41A đường Phú Diễn, phường Phú Diễn, quận Bắc Từ Liêm, thành phố Hà Nội.</div>
+            </div>
+            <div class="text-container-p">
+                <div class="text text--desc">Điện thoại:</div>
+                <div class="text text--infor">0888888999</div>
+            </div>
+            <div class="tex-container-e">
+            <div class="text text--desc">Email:</div>
+            <div class="text text--infor">simplemobile.bodoi.com</div>
+            </div>
     </div>
 </div> <!-- Đóng thẻ container --> 
 </body>
