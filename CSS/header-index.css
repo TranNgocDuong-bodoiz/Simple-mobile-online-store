@@ -8,13 +8,10 @@
     padding: 0;
     display: flex;
     justify-content: space-around;
-    background-color: rgb(242, 48, 48);
-
+    background-color: red;
     top: 0;
-    right: 0;
-}
-.page_header a{
-    text-decoration: none;
+
+    left: 0;
 }
 div.page_header div{
     margin-top: 10px;

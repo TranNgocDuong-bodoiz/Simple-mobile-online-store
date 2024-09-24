@@ -1,7 +1,8 @@
+
 .main{
     width: 85%;
     height: auto;
-    padding:0;
+
     margin: 0 auto;
 }
 .banner{
@@ -93,9 +94,13 @@
 .sale_product_buy_b input{
     width: 100%;
     height: 30px;
-    background-color: pink;
+    background-color: rgb(244, 46, 79);
     border-radius: 15px;
     color: rgb(0, 0, 0);
+}
+.sale_product_buy_b input:hover{
+    opacity: 0.8;
+    cursor: pointer;
 }
 /* dien thoai noi bat*/
 .outstandingPhone{
@@ -127,6 +132,9 @@
     background-color: white;
     border: 1px solid #a7a7a7;
     box-sizing: border-box;
+}
+.outstandingPhone__phone_container__phone a{
+    text-decoration: none;
 }
 .outstandingPhone__phone_container__phone__phone_content{
     width: 100px;
@@ -165,6 +173,9 @@
     height: auto;
     padding: 0;
     margin: 0;
+}
+.outstandingTablet__tablet_container__tablet a{
+    text-decoration: none;
 }
 .outstandingTablet div.outstandingTablet__head_content{
     width: 100%;
