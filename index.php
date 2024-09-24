@@ -6,8 +6,8 @@
     <title>simple </title>
     <link href="fontawesome-free-6.6.0-web/css/all.min.css" rel="stylesheet" >
     <link rel="stylesheet" href="./CSS/container-index.css">
-    <link rel="stylesheet" href="CSS/header-index.css">
-    <link rel="stylesheet" href="CSS/footer-index.css">
+    <link rel="stylesheet" href="CSS/header.css">
+    <link rel="stylesheet" href="CSS/footer.css">
     <link rel="stylesheet" href="CSS/main-index.css">
 </head>
 <body>
@@ -48,10 +48,6 @@
                     <a href="index.php?quanly=danhmuc=phukien">Phụ kiện</a>
                 </li>
                 <li class="danh_muc_item">
-                    <i class="fa-solid fa-recycle"></i>
-                    <a href="index.php?quanly=hangcu">Hàng cũ</a>
-                </li>
-                <li class="danh_muc_item">
                     <i class="fa-regular fa-newspaper"></i>
                     <a href="index.php?quanly=tintuc">Tin tức</a>
                 </li>
@@ -68,12 +64,6 @@
                     <span id="hotline_text">gọi mua ngay</span>
                     <span id="hotline_number">0888888889</span>
                 </div>
-            </a>
-        </div>
-        <div class="don_hang">
-            <a href="#">
-                <div class="don_hang_icon"><i class="fa-solid fa-truck"></i></div>
-                <div class="don_hang_infor"><span id="don_hang_text">tra cứu đơn hàng</span></div>
             </a>
         </div>
         <div class="gio_hang">
@@ -97,10 +87,10 @@
         <!--banner-->
         <div class="banner">
             <div class="big_banner">
-                <img src="imgaes/laptop-ai-banner-chung-slide.webp" alt="" width="100%" height="100%">
+                <img src="./imgaes/banner1.webp" alt="" width="100%" height="100%">
             </div>
             <div class="sub_banner">
-                <div class="sub_banner1"><img src="imgaes/b2s-2024-right-banner-laptop.webp" alt="" width="100%"> </div>
+                <div class="sub_banner1"><img src="./imgaes/banner2.webp" alt="" width="100%"> </div>
                 <div class="sub_banner2"><img src="imgaes/m55-gia-moi-right-banner-30-8-2024.webp" alt="" width="100%"></div>
                 <div class="sub_banner3"><img src="imgaes/right-banner-dat-truoc-iphone-16.webp" alt="" width="100%"></div>
             </div>

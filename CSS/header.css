@@ -125,30 +125,6 @@ li.danh_muc_item:hover{
     font-weight: 300;
 }
 /*  "tra_cuu_don_hang" */
-.page_header div.don_hang{
-    height: 100%;
-    width: 120px;
-    padding: 0;
-    margin: 0;
-}
-.page_header div.don_hang:hover{
-}
-.don_hang a{
-    color: black;
-    display: flex;
-    text-decoration: none;
-}
-.don_hang a div.don_hang_icon{
-    font-size: 21px;
-    margin-top: 20px;
-}
-.don_hang_infor{
-    padding-left: 5px;
-    color: white;
-}
-.don_hang_infor span{
-    font-weight: 300;
-}
 /*  " gio hang" */
 .page_header div.gio_hang{
     height: 100%;
