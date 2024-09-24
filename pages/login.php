@@ -22,7 +22,10 @@
                 <input type="password" id="matkhau" name="matkhau" placeholder="Nhập mật khẩu">
                 <div class="button-simple">
                     <button type="submit" class="login-btn">Đăng nhập</button>
-                    <button type="button" class="register-btn">Đăng ký</button>
+                    <a href="./register.php" style="text-decoration: none;">
+                        <button type="button" class="register-btn">Đăng ký</button>
+                    </a>
+                    
                 </div>
             </form>
         </div>
